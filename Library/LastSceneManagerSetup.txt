@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/city_export_full.unity
+  isLoaded: 1
+  isActive: 1
